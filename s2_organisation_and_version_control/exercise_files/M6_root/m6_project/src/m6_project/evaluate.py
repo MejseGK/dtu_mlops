@@ -1,3 +1,4 @@
+import sys
 import torch
 from m6_project.data import corrupt_mnist
 from m6_project.model import MyAwesomeModel
@@ -26,4 +27,5 @@ def evaluate(model_checkpoint: str) -> None:
     print(f"Test accuracy: {correct / total}")
 
 if __name__ == "__main__":
-    evaluate(model_checkpoint="model.pth")
+    model_checkpoint = sys.argv[1]
+    evaluate(model_checkpoint)

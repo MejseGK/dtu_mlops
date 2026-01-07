@@ -2,6 +2,6 @@ torch==2.9.1
 typer==0.15.2
 fastapi==0.115.12
 uvicorn==0.34.2
-sklearn==1.8.0
+scikit-learn==1.8.0
 matplotlib==3.10.8
 invoke==2.2.1
