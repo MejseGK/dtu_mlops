@@ -1,0 +1,33 @@
+{
+  "os":  "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "python":  "CPython 3.11.14",
+  "startedAt":  "2026-01-08T18:43:29.820524Z",
+  "args":  [
+    "--batch_size=32",
+    "--epochs=15",
+    "--learning_rate=0.01831938818765991"
+  ],
+  "program":  "/home/mejse/dtu/dtu_mlops/s2_organisation_and_version_control/exercise_files/M6_root/m6_project/src/m6_project/train.py",
+  "codePath":  "s2_organisation_and_version_control/exercise_files/M6_root/m6_project/src/m6_project/train.py",
+  "codePathLocal":  "src/m6_project/train.py",
+  "git":  {
+    "remote":  "https://github.com/MejseGK/dtu_mlops.git",
+    "commit":  "e1c3943d7f9465dc916ea1c65eda4615605540f9"
+  },
+  "email":  "s196050@dtu.dk",
+  "root":  "/home/mejse/dtu/dtu_mlops/s2_organisation_and_version_control/exercise_files/M6_root/m6_project",
+  "host":  "Teis-Laptop",
+  "executable":  "/home/mejse/miniconda3/envs/my_environment/bin/python",
+  "cpu_count":  8,
+  "cpu_count_logical":  16,
+  "disk":  {
+    "/":  {
+      "total":  "1081101176832",
+      "used":  "15155228672"
+    }
+  },
+  "memory":  {
+    "total":  "7166164992"
+  },
+  "writerId":  "6k6kj67csk30twwehzlpwzu2iaso80ni"
+}

@@ -1,0 +1,37 @@
+_wandb:
+    value:
+        cli_version: 0.23.1
+        e:
+            fibdwsurad2yc5oe6iyqbomdr87qdxo4:
+                codePath: s4_debugging_and_logging/exercise_files/M14_logging/wandb_test.py
+                codePathLocal: wandb_test.py
+                email: s196050@dtu.dk
+                executable: /home/mejse/miniconda3/envs/my_environment/bin/python
+                git:
+                    commit: e1c3943d7f9465dc916ea1c65eda4615605540f9
+                    remote: https://github.com/MejseGK/dtu_mlops.git
+                host: Teis-Laptop
+                os: Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39
+                program: /home/mejse/dtu/dtu_mlops/s4_debugging_and_logging/exercise_files/M14_logging/wandb_test.py
+                python: CPython 3.11.14
+                root: /home/mejse/dtu/dtu_mlops/s4_debugging_and_logging/exercise_files/M14_logging
+                startedAt: "2026-01-08T09:45:28.389923Z"
+                writerId: fibdwsurad2yc5oe6iyqbomdr87qdxo4
+        m: []
+        python_version: 3.11.14
+        t:
+            "3":
+                - 2
+                - 16
+            "4": 3.11.14
+            "5": 0.23.1
+            "12": 0.23.1
+            "13": linux-x86_64
+architecture:
+    value: CNN
+dataset:
+    value: CIFAR-100
+epochs:
+    value: 10
+learning_rate:
+    value: 0.02

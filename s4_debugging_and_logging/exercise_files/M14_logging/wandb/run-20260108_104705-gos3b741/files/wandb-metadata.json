@@ -1,0 +1,17 @@
+{
+  "os":  "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "python":  "CPython 3.11.14",
+  "startedAt":  "2026-01-08T09:47:05.334747Z",
+  "program":  "/home/mejse/dtu/dtu_mlops/s4_debugging_and_logging/exercise_files/M14_logging/wandb_test.py",
+  "codePath":  "s4_debugging_and_logging/exercise_files/M14_logging/wandb_test.py",
+  "codePathLocal":  "wandb_test.py",
+  "git":  {
+    "remote":  "https://github.com/MejseGK/dtu_mlops.git",
+    "commit":  "e1c3943d7f9465dc916ea1c65eda4615605540f9"
+  },
+  "email":  "s196050@dtu.dk",
+  "root":  "/home/mejse/dtu/dtu_mlops/s4_debugging_and_logging/exercise_files/M14_logging",
+  "host":  "Teis-Laptop",
+  "executable":  "/home/mejse/miniconda3/envs/my_environment/bin/python",
+  "writerId":  "ce4ekia1699rwib3yu84edv4rnj3t97z"
+}
