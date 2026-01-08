@@ -6,3 +6,4 @@ scikit-learn==1.8.0
 matplotlib==3.10.8
 invoke==2.2.1
 hydra-core==1.3.2
+loguru==0.7.3
